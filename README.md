@@ -9,14 +9,13 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="30"> 📘 Ejercicios Guiados
 
-## 📘 Ejercicios Guiados
-
 | Nº | Actividad |
 |:--:|:-----------|
-| 1 | [U2ACT1 — Ejercicio de Lista Enlazada Simple con VisuAlgo 💻](./5b037dc8-7708-4283-969d-e242e7ac32ee.pdf) |
-| 2 | [U2ACT2 — Ejercicio de Pila con VisuAlgo 🔁](./0426d022-3d71-43af-86cf-a97ca73570f7.pdf) |
+| 1 | U2ACT1 — Ejercicio de Lista Enlazada Simple con VisuAlgo 💻 |
+| 2 | U2ACT2 — Ejercicio de Pila con VisuAlgo 🔁 |
 | 3 | U2ACT2 — Especificación de la Pila 🧾 |
-| 4 | [U2ACT2 — Lista Encantada Humana en Java 👩‍💻](./77e9ef4b-e65a-4b8a-b894-e6ef042615b4.pdf) |
+| 4 | U2ACT2 — Lista Encantada Humana en Java 👩‍💻 |
+
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30"> 🧩 Ejercicios Prácticos
