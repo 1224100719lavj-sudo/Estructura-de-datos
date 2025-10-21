@@ -8,20 +8,20 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="30"> 📘 Contenido de la Unidad
 
-| Nº | Actividad | Enlace |
-|:--:|:-----------|:-------|
-| 1 | Ejercicio — Lista Enlazada Simple con VisuAlgo 💻 | [Abrir Carpeta](./) |
-| 2 | Ejercicio — Pila con VisuAlgo 🔁 | [Abrir Carpeta](./) |
-| 3 | Ejercicio — Especificación de la Pila 🧾 | [Abrir Carpeta](./) |
-| 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [Abrir Carpeta](./) |
+| Nº | Actividad | Ver |
+|:--:|:-----------|:----|
+| 1 | Ejercicio — Lista Enlazada Simple con VisuAlgo 💻 | [📄 Abrir PDF](./Ejercicio1-ListaEnlazada.pdf) |
+| 2 | Ejercicio — Pila con VisuAlgo 🔁 | [📄 Abrir PDF](./Ejercicio2-Pila.pdf) |
+| 3 | Ejercicio — Especificación de la Pila 🧾 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
+| 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | — |
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30"> 🧩 Ejercicios Prácticos
 
-| Nº | Actividad | Enlace |
-|:--:|:-----------|:-------|
-| 1 | Ejercicios Prácticos de Listas 🔗 | [Abrir Carpeta](./) |
+| Nº | Actividad | Ver |
+|:--:|:-----------|:----|
+| 1 | Ejercicios Prácticos de Listas 🔗 | — |
 
 ---
 
@@ -34,11 +34,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1998/1998577.png" width="50">
   <img src="https://cdn-icons-png.flaticon.com/512/3199/3199873.png" width="50">
 </p>
-
-<p align="center">
-  <em>“Aprender estructuras de datos es entender cómo organizar el pensamiento.”</em>
-</p>
-
 
 <p align="center">
   <em>“Aprender estructuras de datos es entender cómo organizar el pensamiento.”</em>
