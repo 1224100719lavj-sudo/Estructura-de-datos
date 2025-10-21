@@ -13,7 +13,7 @@
 |:--:|:-----------|:----|
 | 1 | Ejercicio — Lista Enlazada Simple con VisuAlgo 💻 | [📄 Abrir PDF](./Ejercicio1-ListaEnlazada.pdf) |
 | 2 | Ejercicio — Pila con VisuAlgo 🔁 | [📄 Abrir PDF](./Ejercicio2-Pila.pdf) |
-| 3 | Ejercicio — Especificación de la Pila 🧾 | [📄 Abrir PDF](./especificacion%20de%20pilas.pdf) | |
+| 3 | Ejercicio — Especificación de la Pila 🧾 | [📘 Ver archivo](./especificacion%20de%20pilas)  |
 | 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
 | 5 | Ejercicio — Listas Enlazadas (Valencia Luis Ángel) 🔗 | [📄 Abrir PDF](./Valencia%20jantes%20luis%20angel%20listas%20enlazadas.pdf) |
 
