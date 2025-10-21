@@ -1,3 +1,4 @@
+
 <h1 align="center">📚 Estructura de Datos — Unidad 2 🧠</h1>
 
 <p align="center">
@@ -12,16 +13,9 @@
 |:--:|:-----------|:----|
 | 1 | Ejercicio — Lista Enlazada Simple con VisuAlgo 💻 | [📄 Abrir PDF](./Ejercicio1-ListaEnlazada.pdf) |
 | 2 | Ejercicio — Pila con VisuAlgo 🔁 | [📄 Abrir PDF](./Ejercicio2-Pila.pdf) |
-| 3 | Ejercicio — Especificación de la Pila 🧾 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
-| 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | 📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf)|
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30"> 🧩 Ejercicios Prácticos
-
-| Nº | Actividad | Ver |
-|:--:|:-----------|:----|
-| 1 | Ejercicios Prácticos de Listas 🔗 | — |
+| 3 | Ejercicio — Especificación de la Pila 🧾 | — |
+| 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
+| 5 | Ejercicio — Listas Enlazadas (Valencia Luis Ángel) 🔗 | [📄 Abrir PDF](./Valencia%20jantes%20luis%20angel%20listas%20enlazadas.pdf) |
 
 ---
 
@@ -38,3 +32,4 @@
 <p align="center">
   <em>“Aprender estructuras de datos es entender cómo organizar el pensamiento.”</em>
 </p>
+
