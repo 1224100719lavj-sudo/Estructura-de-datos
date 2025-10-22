@@ -44,4 +44,3 @@
   <em>“Aprender estructuras de datos es entender cómo organizar el pensamiento.”</em>
 </p>
 
-
