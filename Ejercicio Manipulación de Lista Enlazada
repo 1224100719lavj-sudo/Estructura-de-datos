@@ -1,0 +1,147 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package EstructuraDatos;
+
+/**
+ *
+ * @author jante
+ */
+import java.util.Random;
+import java.util.Scanner;
+
+
+class ElementoLista {
+    int valor;
+    ElementoLista siguienteElemento;
+    
+ 
+    public ElementoLista(int datoInicial) {
+        this.valor = datoInicial;
+        this.siguienteElemento = null;
+    }
+}
+
+
+class EstructuraListaSimple {
+    private ElementoLista inicio;
+    private ElementoLista fin;
+    
+
+    public EstructuraListaSimple() {
+        this.inicio = null;
+        this.fin = null;
+    }
+    
+    
+    public void agregarAlFinal(int nuevoValor) {
+        ElementoLista nuevoElemento = new ElementoLista(nuevoValor);
+        
+        if (inicio == null) {
+            // Caso: la lista está vacía
+            inicio = nuevoElemento;
+            fin = nuevoElemento;
+        } else {
+            // Caso: ya hay elementos, conecto al final
+            fin.siguienteElemento = nuevoElemento;
+            fin = nuevoElemento;
+        }
+    }
+    
+ 
+    public void visualizarEstructura() {
+        if (inicio == null) {
+            System.out.println("La estructura de lista está vacía.");
+            return;
+        }
+        
+        ElementoLista actual = inicio;
+        System.out.print("Contenido de la Lista: ");
+        
+        while (actual != null) {
+            System.out.print(actual.valor + " -> ");
+            actual = actual.siguienteElemento;
+        }
+        System.out.println("FIN");
+    }
+    
+    
+    public void removerElementosSuperioresA(int umbral) {
+        if (inicio == null) {
+            return;
+        }
+        
+      
+        while (inicio != null && inicio.valor > umbral) {
+            inicio = inicio.siguienteElemento;
+        }
+        
+       
+        if (inicio == null) {
+            fin = null;
+            System.out.println("Todos los elementos fueron removidos.");
+            return;
+        }
+        
+       
+        ElementoLista elementoAnterior = inicio;
+        while (elementoAnterior.siguienteElemento != null) {
+            if (elementoAnterior.siguienteElemente.valor > umbral) {
+                // Quito el nodo 'siguiente'
+                elementoAnterior.siguienteElemento = elementoAnterior.siguienteElemente.siguienteElemento;
+                
+               
+                if (elementoAnterior.siguienteElemento == null) {
+                    fin = elementoAnterior;
+                }
+            } else {
+                elementoAnterior = elementoAnterior.siguienteElemento;
+            }
+        }
+    }
+    
+   
+    public void generarValoresAleatorios(int cantidadValores, int limiteSuperior) {
+        Random generador = new Random();
+        
+        for (int i = 0; i < cantidadValores; i++) {
+            // Números entre 1 y limiteSuperior (inclusive)
+            int numeroGenerado = generador.nextInt(limiteSuperior) + 1; 
+            agregarAlFinal(numeroGenerado);
+        }
+    }
+}
+
+
+public class ProgramaPrincipalLista {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+        EstructuraListaSimple miLista = new EstructuraListaSimple();
+        
+        System.out.println("=== MANEJO DE ESTRUCTURA DE LISTA SIMPLE ===");
+        
+        System.out.print("Ingrese la cantidad de valores a generar: ");
+        int cant = entrada.nextInt();
+        
+        System.out.print("Ingrese el valor máximo para los números aleatorios: ");
+        int maxValor = entrada.nextInt();
+        
+        miLista.generarValoresAleatorios(cant, maxValor);
+        
+        System.out.println("\n--- Estructura Original Generada ---");
+        miLista.visualizarEstructura();
+        
+        System.out.print("\nDefina el umbral para la remoción de elementos: ");
+        int umbralRemocion = entrada.nextInt();
+        
+        System.out.println("\n--- Iniciando Proceso de Remoción ---");
+        miLista.removerElementosSuperioresA(umbralRemocion);
+        
+        System.out.println("\n--- Estructura Final (Removidos > " + umbralRemocion + ") ---");
+        miLista.visualizarEstructura();
+        
+        entrada.close();
+        System.out.println("\n=== EJECUCION FINALIZADA CORRECTAMENTE ===");
+    }
+}
