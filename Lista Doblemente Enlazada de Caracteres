@@ -1,0 +1,78 @@
+package listaDobleCaracteres;
+
+import java.util.Scanner;
+
+public class ListaDobleCaracteres {
+
+    static class Nodo {
+        char caracter;
+        Nodo anterior;
+        Nodo siguiente;
+
+        public Nodo(char c) {
+            caracter = c;
+            anterior = null;
+            siguiente = null;
+        }
+    }
+
+    static class ListaDoble {
+        Nodo cabeza;
+        Nodo cola;
+
+        public void insertarCaracter(char c) {
+            Nodo nuevo = new Nodo(c);
+            if (cabeza == null) {
+                cabeza = cola = nuevo;
+            } else {
+                cola.siguiente = nuevo;
+                nuevo.anterior = cola;
+                cola = nuevo;
+            }
+        }
+
+        public void ordenar() {
+            if (cabeza == null) return;
+            boolean cambiado;
+            do {
+                cambiado = false;
+                Nodo actual = cabeza;
+                while (actual.siguiente != null) {
+                    if (actual.caracter > actual.siguiente.caracter) {
+                        char temp = actual.caracter;
+                        actual.caracter = actual.siguiente.caracter;
+                        actual.siguiente.caracter = temp;
+                        cambiado = true;
+                    }
+                    actual = actual.siguiente;
+                }
+            } while (cambiado);
+        }
+
+        public void mostrar() {
+            Nodo actual = cabeza;
+            while (actual != null) {
+                System.out.print(actual.caracter + " ");
+                actual = actual.siguiente;
+            }
+            System.out.println();
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        ListaDoble lista = new ListaDoble();
+
+        System.out.print("Ingrese una cadena de texto: ");
+        String cadena = sc.nextLine();
+
+        for (char c : cadena.toCharArray()) {
+            lista.insertarCaracter(c);
+        }
+
+        lista.ordenar();
+
+        System.out.println("Lista de caracteres ordenada alfabéticamente:");
+        lista.mostrar();
+    }
+}
