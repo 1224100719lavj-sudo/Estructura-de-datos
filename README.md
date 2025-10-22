@@ -26,7 +26,8 @@
 | 2 | Ejercicio — Manipulación de Lista Enlazada ⚙️ | [📘 Ver archivo](./Ejercicio%20Manipulación%20de%20Lista%20Enlazada) |
 | 3 | Ejercicio — Lista Doblemente Enlazada de Caracteres 🔤 | [📘 Ver archivo](./Lista%20Doblemente%20Enlazada%20de%20Caracteres) |
 | 4 | Ejercicio — Polinomio con Lista Enlazada Circular 🔁 | [📘 Ver archivo](./Polinomio%20con%20Lista%20Enlazada%20Circular) |
-| 5 | Ejercicio — Representación y Evaluación de Polinomios con Listas Enlazadas 🧮 | [📘 Ver archivo](./Representación%20y%20Evaluación%20de%20Polinomios%20con%20Listas%20Enlazadas) |
+| 5 | Ejercicio — Representación y Evaluación de Polinomios con Listas Enlazadas 🧮 | [📘 Ver archivo](./Representaci%C3%B3n%20y%20Evaluaci%C3%B3n%20de%20Polinomios%20con%20Listas%20Enlazadas) |
+
 
 ---
 
