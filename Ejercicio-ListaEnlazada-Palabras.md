@@ -109,12 +109,12 @@ public class ListaPalabras {
                 }
             }
         } catch (FileNotFoundException e) {
-            System.out.println("⚠️ Archivo no encontrado. Se creará uno nuevo al guardar.");
+            System.out.println(" Archivo no encontrado. Se creará uno nuevo al guardar.");
         } catch (IOException e) {
-            System.out.println("⚠️ Error al leer el archivo: " + e.getMessage());
+            System.out.println(" Error al leer el archivo: " + e.getMessage());
         }
 
-        System.out.println("\n📖 Palabras cargadas desde el archivo:");
+        System.out.println("\n Palabras cargadas desde el archivo:");
         lista.mostrar();
 
         
