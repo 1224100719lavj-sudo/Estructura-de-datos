@@ -15,8 +15,7 @@
 | 3 | Ejercicio — Especificación de la Pila 🧾 | [📘 Ver archivo](./especificacion%20de%20pilas) |
 | 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
 | 5 | Ejercicio — Listas Enlazadas (Valencia Luis Ángel) 🔗 | [📄 Abrir PDF](./Valencia%20jantes%20luis%20angel%20listas%20enlazadas.pdf) |
-| 6 | **ActividadColas — Implementación de Colas en Java 🧵** | [![PDF](https://img.shields.io/badge/📘%20Ver%20PDF-FFB300?style=for-the-badge)](./ActividadColas.pdf) [![Código Java](https://img.shields.io/badge/💻%20Ver%20Código-0078D7?style=for-the-badge)](./ActividadCola.java) |
-
+| 6 | **ActividadColas — Implementación de Colas en Java 🧵** | [![PDF](https://img.shields.io/badge/📘%20Ver%20PDF-FFB300?style=for-the-badge)](./ActividadColas.pdf) [![Código Java](https://img.shields.io/badge/💻%20Ver%20Código-0078D7?style=for-the-badge)](./ActividadCola.java) [![🎥 Video](https://img.shields.io/badge/🎥%20Ver%20Video-FF4B4B?style=for-the-badge)](./Prueba%20funcionalidad.mp4) |
 ---
 
 # 🧩 EJERCICIOS PRÁCTICOS
