@@ -15,6 +15,7 @@
 | 3 | Ejercicio — Especificación de la Pila 🧾 | [📘 Ver archivo](./especificacion%20de%20pilas) |
 | 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
 | 5 | Ejercicio — Listas Enlazadas (Valencia Luis Ángel) 🔗 | [📄 Abrir PDF](./Valencia%20jantes%20luis%20angel%20listas%20enlazadas.pdf) |
+| 6 | **ActividadColas — Implementación de Colas en Java 🧵** | [![PDF](https://img.shields.io/badge/📘%20Ver%20PDF-FFB300?style=for-the-badge)](./ActividadColas.pdf) [![Código Java](https://img.shields.io/badge/💻%20Ver%20Código-0078D7?style=for-the-badge)](./ActividadCola.java) |
 
 ---
 
@@ -27,7 +28,6 @@
 | 3 | Ejercicio — Lista Doblemente Enlazada de Caracteres 🔤 | [📘 Ver archivo](./Lista%20Doblemente%20Enlazada%20de%20Caracteres) |
 | 4 | Ejercicio — Polinomio con Lista Enlazada Circular 🔁 | [📘 Ver archivo](./Polinomio%20con%20Lista%20Enlazada%20Circular) |
 | 5 | Ejercicio — Representación y Evaluación de Polinomios con Listas Enlazadas 🧮 | [📘 Ver archivo](./Representacion-Evaluacion-Polinomios-ListasEnlazadas.md) |
-
 
 ---
 
@@ -44,4 +44,3 @@
 <p align="center">
   <em>“Aprender estructuras de datos es entender cómo organizar el pensamiento.”</em>
 </p>
-
