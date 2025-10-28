@@ -16,6 +16,7 @@
 | 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
 | 5 | Ejercicio — Listas Enlazadas (Valencia Luis Ángel) 🔗 | [📄 Abrir PDF](./Valencia%20jantes%20luis%20angel%20listas%20enlazadas.pdf) |
 | 6 | **ActividadColas — Implementación de Colas en Java 🧵** | [![PDF](https://img.shields.io/badge/📘%20Ver%20PDF-FFB300?style=for-the-badge)](./ActividadColas.pdf) [![Código Java](https://img.shields.io/badge/💻%20Ver%20Código-0078D7?style=for-the-badge)](./ActividadCola.java) [![🎥 Video](https://img.shields.io/badge/🎥%20Ver%20Video-FF4B4B?style=for-the-badge)](./Prueba%20funcionalidad.mp4) |
+| 7 | **Actividad — Bubble Sort (Luis Ángel V.J.) 🫧** | [![PDF](https://img.shields.io/badge/📘%20Abrir%20PDF-00BFFF?style=for-the-badge)](./Actividad%20buble%20sort%20luis%20angel%20v.j.pdf) |
 ---
 
 # 🧩 EJERCICIOS PRÁCTICOS
