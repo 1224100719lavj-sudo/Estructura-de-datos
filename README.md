@@ -51,13 +51,16 @@
 
 ### 🧵 Ejercicios Colas
 
+### 🧵 Ejercicios Colas
+
 | Nº | Actividad | Ver |
 |:--:|:-----------|:----|
-| 1 | Comparar Colas — Implementación en Java 💻 | [Ver Código](./CompararColas.java) · [Ver Video](./CompararColas.mp4) |
-| 2 | SupperHEB — Simulación de Colas en Java 🛒 | [Ver Código](./SupperHEB.java) · [Ver Video](./SupperHEB.mp4) |
-| 3 | Supper — Cola de Atención con Prioridad 🍽️ | [Ver Código](./Supper.java) · [Ver Video](./supper.mp4) |
+| 1 | Comparar Colas — Implementación en Java 💻 | [Ver Código](./ejerciciospilas/CompararColas.java) · [Ver Video](./ejerciciospilas/CompararColas.mp4) |
+| 2 | SupperHEB — Simulación de Colas en Java 🛒 | [Ver Código](./ejerciciospilas/SupperHEB.java) · [Ver Video](./ejerciciospilas/SupperHEB.mp4) |
+| 3 | Supper — Cola de Atención con Prioridad 🍽️ | [Ver Código](./ejerciciospilas/Supper.java) · [Ver Video](./ejerciciospilas/supper.mp4) |
 
 
+---
 
 
 <p align="center">
