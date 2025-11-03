@@ -74,5 +74,6 @@
 </p>
 
 <p align="center">
-  <em>“Aprender estructuras de datos es entender cómo organizar el pensamiento.”</em>
+  <em>"No es la vida lo que importa, sino el valor que le damos a la vida."
+— Sócrates</em>
 </p>
