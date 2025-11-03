@@ -31,6 +31,24 @@
 
 ---
 
+# 🧮 Ejercicios de Pilas
+
+| Nº | Actividad | Ver Código | Ver Video |
+|:--:|:-----------|:-----------|:-----------|
+| 1 | VerificarPila | [📄 Ver código](./ejerciciospilas/VerificarPila.java) | [🎥 Ver video](./ejerciciospilas/VerificarPila.mp4) |
+| 2 | SimuladorDeshacer | [📄 Ver código](./ejerciciospilas/SimuladorDeshacer.java) | [🎥 Ver video](./ejerciciospilas/SimuladorDeshacer.mp4) |
+| 3 | ReversaLista | [📄 Ver código](./ejerciciospilas/ReversaLista.java) | [🎥 Ver video](./ejerciciospilas/ReversaLista.mp4) |
+| 4 | PilaSimples | [📄 Ver código](./ejerciciospilas/PilaSimples.java) | [🎥 Ver video](./ejerciciospilas/PilaSimples.mp4) |
+| 5 | PilaNombre | [📄 Ver código](./ejerciciospilas/PilaNombre.java) | [🎥 Ver video](./ejerciciospilas/PilaNombre.mp4) |
+| 6 | PalindromoVerificar | [📄 Ver código](./ejerciciospilas/PalindromoVerificar.java) | [🎥 Ver video](./ejerciciospilas/PalindromoVerificar.mp4) |
+| 7 | InversorPalabras | [📄 Ver código](./ejerciciospilas/InversorPalabras.java) | [🎥 Ver video](./ejerciciospilas/InversorPalabras.mp4) |
+| 8 | EvaluarPostfijo | [📄 Ver código](./ejerciciospilas/EvaluarPostfijo.java) | [🎥 Ver video](./ejerciciospilas/EvaluarPostfijo.mp4) |
+| 9 | ConvertirDecimalBinario | [📄 Ver código](./ejerciciospilas/ConvertirDecimalBinario.java) | [🎥 Ver video](./ejerciciospilas/ConvertirDecimalBinario.mp4) |
+| 10 | Balanceo | [📄 Ver código](./ejerciciospilas/Balanceo.java) | [🎥 Ver video](./ejerciciospilas/Balanceo.mp4) |
+
+
+---
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/8b/ba/6a/8bba6ae02f9725b4889252f6ecf8a1ab.jpg" width="400" alt="GodGwawa Cute">
 </p>
