@@ -49,6 +49,17 @@
 
 ---
 
+### 🧵 Ejercicios Colas
+
+| Nº | Actividad | Ver |
+|:--:|:-----------|:----|
+| 1 | Comparar Colas — Implementación en Java 💻 | [Ver Código](./CompararColas.java) · [Ver Video](./CompararColas.mp4) |
+| 2 | SupperHEB — Simulación de Colas en Java 🛒 | [Ver Código](./SupperHEB.java) · [Ver Video](./SupperHEB.mp4) |
+| 3 | Supper — Cola de Atención con Prioridad 🍽️ | [Ver Código](./Supper.java) · [Ver Video](./supper.mp4) |
+
+
+
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/8b/ba/6a/8bba6ae02f9725b4889252f6ecf8a1ab.jpg" width="400" alt="GodGwawa Cute">
 </p>
