@@ -6,17 +6,18 @@
 
 ---
 
-# 📘 EJERCICIOS GUIADOS
+---
+
+# 🟦 INICIO — UNIDAD 3
+
+---
+
+# 📘 EJERCICIOS GUIADOS (Unidad 3)
 
 | Nº | Actividad | Ver |
-|:--:|:-----------|:----|
-| 1 | Ejercicio — Lista Enlazada Simple con VisuAlgo 💻 | [📄 Abrir PDF](./Ejercicio1-ListaEnlazada.pdf) |
-| 2 | Ejercicio — Pila con VisuAlgo 🔁 | [📄 Abrir PDF](./Ejercicio2-Pila.pdf) |
-| 3 | Ejercicio — Especificación de la Pila 🧾 | [📘 Ver archivo](./especificacion%20de%20pilas) |
-| 4 | Ejercicio — Lista Encantada Humana en Java 👩‍💻 | [📄 Abrir PDF](./Ejercicio3-EspecificacionPila.pdf) |
-| 5 | Ejercicio — Listas Enlazadas (Valencia Luis Ángel) 🔗 | [📄 Abrir PDF](./Valencia%20jantes%20luis%20angel%20listas%20enlazadas.pdf) |
-| 6 | **ActividadColas — Implementación de Colas en Java 🧵** | [![PDF](https://img.shields.io/badge/📘%20Ver%20PDF-FFB300?style=for-the-badge)](./ActividadColas.pdf) [![Código Java](https://img.shields.io/badge/💻%20Ver%20Código-0078D7?style=for-the-badge)](./ActividadCola.java) [![🎥 Video](https://img.shields.io/badge/🎥%20Ver%20Video-FF4B4B?style=for-the-badge)](./Prueba%20funcionalidad.mp4) |
-| 7 | **Actividad — Bubble Sort (Luis Ángel V.J.) 🫧** | [![PDF](https://img.shields.io/badge/📘%20Abrir%20PDF-00BFFF?style=for-the-badge)](./Actividad%20buble%20sort%20luis%20angel%20v.j.pdf) |
+|:--:|:----------|:----|
+| 1 | Ejercicio — GUI en Java Swing 🎨 | [📄 Abrir PDF](./U3EjercicioGuiadoSwing.pdf) |
+
 ---
 
 # 🧩 EJERCICIOS PRÁCTICOS
@@ -24,10 +25,10 @@
 | Nº | Actividad | Ver |
 |:--:|:-----------|:----|
 | 1 | Ejercicio — Lista Enlazada de Palabras desde Archivo 🗂️ | [📘 Ver archivo](./Ejercicio-ListaEnlazada-Palabras.md) |
-| 2 | Ejercicio — Manipulación de Lista Enlazada ⚙️ | [📘 Ver archivo](./Ejercicio%20Manipulaci%C3%B3n%20de%20Lista%20Enlazada) |
+| 2 | Ejercicio — Manipulación de Lista Enlazada ⚙️ | [📘 Ver archivo](./Ejercicio%20Manipulación%20de%20Lista%20Enlazada) |
 | 3 | Ejercicio — Lista Doblemente Enlazada de Caracteres 🔤 | [📘 Ver archivo](./Lista%20Doblemente%20Enlazada%20de%20Caracteres) |
 | 4 | Ejercicio — Polinomio con Lista Enlazada Circular 🔁 | [📘 Ver archivo](./Polinomio%20con%20Lista%20Enlazada%20Circular) |
-| 5 | Ejercicio — Representación y Evaluación de Polinomios con Listas Enlazadas 🧮 | [📘 Ver archivo](./Representacion-Evaluacion-Polinomios-ListasEnlazadas.md) |
+| 5 | Ejercicio — Representación y Evaluación de Polinomios 🧮 | [📘 Ver archivo](./Representacion-Evaluacion-Polinomios-ListasEnlazadas.md) |
 
 ---
 
@@ -46,10 +47,7 @@
 | 9 | ConvertirDecimalBinario | [📄 Ver código](./ejerciciospilas/ConvertirDecimalBinario.java) | [🎥 Ver video](./ejerciciospilas/ConvertirDecimalBinario.mp4) |
 | 10 | Balanceo | [📄 Ver código](./ejerciciospilas/Balanceo.java) | [🎥 Ver video](./ejerciciospilas/Balanceo.mp4) |
 
-
 ---
-
-### 🧵 Ejercicios Colas
 
 ### 🧵 Ejercicios Colas
 
@@ -59,9 +57,7 @@
 | 2 | SupperHEB — Simulación de Colas en Java 🛒 | [Ver Código](./ejerciciospilas/SupperHEB.java) · [Ver Video](./ejerciciospilas/SupperHEB.mp4) |
 | 3 | Supper — Cola de Atención con Prioridad 🍽️ | [Ver Código](./ejerciciospilas/Supper.java) · [Ver Video](./ejerciciospilas/supper.mp4) |
 
-
 ---
-
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/8b/ba/6a/8bba6ae02f9725b4889252f6ecf8a1ab.jpg" width="400" alt="GodGwawa Cute">
@@ -74,6 +70,5 @@
 </p>
 
 <p align="center">
-  <em>"No es la vida lo que importa, sino el valor que le damos a la vida."
-— Sócrates</em>
+  <em>"Al final todo estará bien, y si no lo está, no hemos llegado al final."</em>
 </p>
